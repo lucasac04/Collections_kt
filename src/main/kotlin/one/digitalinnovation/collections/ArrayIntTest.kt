@@ -13,19 +13,23 @@ fun main() {
         println(valor)
     }
 
-    println("-------------------------------------------")
+    space()
     values.forEach {
         println(it)
     }
 
-    println("-------------------------------------------")
+    space()
     for (index in values.indices){
         println(values[index])
     }
 
-    println("-------------------------------------------")
+space()
     values.sort()
     for(valor in values){
         println(valor)
     }
+}
+
+fun space() {
+    println("-------------------------------------------")
 }
