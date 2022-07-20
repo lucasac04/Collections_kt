@@ -23,13 +23,10 @@ fun main() {
         println(values[index])
     }
 
-space()
+    space()
     values.sort()
     for(valor in values){
         println(valor)
     }
 }
 
-fun space() {
-    println("-------------------------------------------")
-}
