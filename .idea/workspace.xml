@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="ShortCommands created to otimize the tests" />
+    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="ShortCommands created to otimize the tests">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ArrayStringTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +39,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Loucong/IdeaProjects/LucasBank"
+    "last_opened_file_path": "C:/Users/Loucong/IdeaProjects/Collections"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayIntOffTestKt">
+  <component name="RunManager" selected="Kotlin.ArrayStringTestKt">
     <configuration name="ArrayIntOffTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ArrayIntOffTestKt" />
       <module name="consoleApp" />
@@ -54,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayStringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ArrayStringTestKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayStringTestKt" />
         <item itemvalue="Kotlin.ArrayIntOffTestKt" />
         <item itemvalue="Kotlin.ArrayIntTestKt" />
       </list>
@@ -69,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658333647467</updated>
-      <workItem from="1658333649962" duration="2845000" />
+      <workItem from="1658333649962" duration="3682000" />
+      <workItem from="1658408097573" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="created int array test class">
       <created>1658334575352</created>
@@ -92,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658336514747</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ShortCommands created to otimize the tests">
+      <created>1658336544060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658336544060</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
