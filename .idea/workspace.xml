@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="ArrayStrintTest Added">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/DoubleArrayTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/FuncionarioData.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ListOfTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/OperationsTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/SetTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ArrayStringTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ArrayStringTest.kt" afterDir="false" />
-    </list>
+    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658333647467</updated>
       <workItem from="1658333649962" duration="3682000" />
-      <workItem from="1658408097573" duration="4197000" />
+      <workItem from="1658408097573" duration="4557000" />
     </task>
     <task id="LOCAL-00001" summary="created int array test class">
       <created>1658334575352</created>
@@ -140,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658408616499</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations">
+      <created>1658412695409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658412695409</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +161,7 @@
     <MESSAGE value="space function added" />
     <MESSAGE value="ShortCommands created to otimize the tests" />
     <MESSAGE value="ArrayStrintTest Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayStrintTest Added" />
+    <MESSAGE value="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations" />
   </component>
 </project>
