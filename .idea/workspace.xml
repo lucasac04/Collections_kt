@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="ShortCommands created to otimize the tests">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ArrayStringTest.kt" afterDir="false" />
+    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="ArrayStrintTest Added">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/DoubleArrayTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/FuncionarioData.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ListOfTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/OperationsTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/SetTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ArrayStringTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ArrayStringTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
@@ -42,21 +48,7 @@
     "last_opened_file_path": "C:/Users/Loucong/IdeaProjects/Collections"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayStringTestKt">
-    <configuration name="ArrayIntOffTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ArrayIntOffTestKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayIntTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ArrayIntTestKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.SetTestKt">
     <configuration name="ArrayStringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ArrayStringTestKt" />
       <module name="consoleApp" />
@@ -64,11 +56,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoubleArrayTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.DoubleArrayTestKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOfTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ListOfTestKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationsTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.OperationsTestKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.SetTestKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SetTestKt" />
+        <item itemvalue="Kotlin.ListOfTestKt" />
+        <item itemvalue="Kotlin.OperationsTestKt" />
         <item itemvalue="Kotlin.ArrayStringTestKt" />
-        <item itemvalue="Kotlin.ArrayIntOffTestKt" />
-        <item itemvalue="Kotlin.ArrayIntTestKt" />
+        <item itemvalue="Kotlin.DoubleArrayTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658333647467</updated>
       <workItem from="1658333649962" duration="3682000" />
-      <workItem from="1658408097573" duration="369000" />
+      <workItem from="1658408097573" duration="4197000" />
     </task>
     <task id="LOCAL-00001" summary="created int array test class">
       <created>1658334575352</created>
@@ -111,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658336544060</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ArrayStrintTest Added">
+      <created>1658408616499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658408616499</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +161,7 @@
     <MESSAGE value="created int array test class" />
     <MESSAGE value="space function added" />
     <MESSAGE value="ShortCommands created to otimize the tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="ShortCommands created to otimize the tests" />
+    <MESSAGE value="ArrayStrintTest Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayStrintTest Added" />
   </component>
 </project>

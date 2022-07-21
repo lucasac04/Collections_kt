@@ -2,7 +2,7 @@ package one.digitalinnovation.collections
 
 fun main() {
     val nomes = Array(3) {""}
-    nomes[0] = "Mario"
+    nomes[0] = "Marioa"
     nomes[1] = "Zaza"
     nomes[2] = "Jose"
 
