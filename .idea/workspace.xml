@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations" />
+    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/MapTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
     "last_opened_file_path": "C:/Users/Loucong/IdeaProjects/Collections"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.SetTestKt">
+  <component name="RunManager" selected="Kotlin.MapTestKt">
     <configuration name="ArrayStringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ArrayStringTestKt" />
       <module name="consoleApp" />
@@ -48,15 +51,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleArrayTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.DoubleArrayTestKt" />
+    <configuration name="ListOfTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ListOfTestKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ListOfTestKt" />
+    <configuration name="MapTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.MapTestKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MapTestKt" />
         <item itemvalue="Kotlin.SetTestKt" />
         <item itemvalue="Kotlin.ListOfTestKt" />
         <item itemvalue="Kotlin.OperationsTestKt" />
         <item itemvalue="Kotlin.ArrayStringTestKt" />
-        <item itemvalue="Kotlin.DoubleArrayTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658333647467</updated>
       <workItem from="1658333649962" duration="3682000" />
-      <workItem from="1658408097573" duration="4557000" />
+      <workItem from="1658408097573" duration="4883000" />
     </task>
     <task id="LOCAL-00001" summary="created int array test class">
       <created>1658334575352</created>
@@ -139,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658412695409</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations">
+      <created>1658412709870</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658412709870</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
