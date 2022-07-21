@@ -1,0 +1,3 @@
+# Collections_kt
+Santander Bootcamp
+Learning about Array, ListOf, MutableListOf...
