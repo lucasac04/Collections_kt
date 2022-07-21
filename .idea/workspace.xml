@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/MapTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="aede75f3-f520-4591-ab51-69336f505280" name="Changes" comment="MapTest Added">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/MutableCollectionsTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/MutableMapTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/Repositorio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ShortCommands.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/ShortCommands.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +46,7 @@
     "last_opened_file_path": "C:/Users/Loucong/IdeaProjects/Collections"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MapTestKt">
-    <configuration name="ArrayStringTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ArrayStringTestKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.MutableMapTestKt">
     <configuration name="ListOfTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.ListOfTestKt" />
       <module name="consoleApp" />
@@ -65,8 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationsTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.OperationsTestKt" />
+    <configuration name="MutableCollectionsTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.MutableCollectionsTestKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutableMapTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.MutableMapTestKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MutableMapTestKt" />
+        <item itemvalue="Kotlin.MutableCollectionsTestKt" />
         <item itemvalue="Kotlin.MapTestKt" />
         <item itemvalue="Kotlin.SetTestKt" />
         <item itemvalue="Kotlin.ListOfTestKt" />
-        <item itemvalue="Kotlin.OperationsTestKt" />
-        <item itemvalue="Kotlin.ArrayStringTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658333647467</updated>
       <workItem from="1658333649962" duration="3682000" />
-      <workItem from="1658408097573" duration="4883000" />
+      <workItem from="1658408097573" duration="8971000" />
     </task>
     <task id="LOCAL-00001" summary="created int array test class">
       <created>1658334575352</created>
@@ -149,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658412709870</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="MapTest Added">
+      <created>1658413285435</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658413285435</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +182,7 @@
     <MESSAGE value="ShortCommands created to otimize the tests" />
     <MESSAGE value="ArrayStrintTest Added" />
     <MESSAGE value="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Class Funcionario Added&#10;setOf Test Added&#10;And others optimizations" />
+    <MESSAGE value="MapTest Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MapTest Added" />
   </component>
 </project>

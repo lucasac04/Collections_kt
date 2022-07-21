@@ -1,5 +1,8 @@
 package one.digitalinnovation.collections
 
-public fun space() {
-    println("---------------------------")
+fun space() {
+    println("""
+        ---------------------------
+        
+    """.trimIndent())
 }
